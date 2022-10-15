@@ -53,6 +53,10 @@ li {
   text-align: center;
 }
 
+.header__login_link {
+  color: #1d2f38;
+}
+
 .header__login-img {
   margin-right: 8px;
   color: #1d2f38;
