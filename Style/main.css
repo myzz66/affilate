@@ -37,6 +37,7 @@ li {
   display: flex;
   align-items: center;
   text-align: center;
+  color: #1d2f38;
 }
 
 .header__link-img {
