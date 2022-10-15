@@ -1,0 +1,49 @@
+body {
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  /* line-height: ; */
+  color: #1d2f38;
+}
+
+._container {
+  width: 1200px;
+  /* padding-left: 25px;
+  padding-right: 25px; */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* show more btn */
+
+.more-btn {
+  font-size: 16px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+.more-btn-link {
+  color: #1d2f38;
+}
+
+.more-btn-img {
+  margin-right: 4px;
+}
+
+.first_word {
+  font-weight: 700;
+}
+
+/* font-family: 'Bitter', serif;  OTHER FONT*/
+
+/* .test {
+  position: fixed;
+  width: 100%;
+  background: #fff;
+  top: 0;
+  z-index: 100;
+} */
+
+/* ДЛЯ АДАПТИВУ */
