@@ -36,14 +36,25 @@ body {
   font-weight: 700;
 }
 
-/* font-family: 'Bitter', serif;  OTHER FONT*/
+@media (max-width: 1200px) {
+  ._container {
+    width: 100%;
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+}
 
-/* .test {
-  position: fixed;
-  width: 100%;
-  background: #fff;
-  top: 0;
-  z-index: 100;
-} */
+@media (max-width: 991px) {
+  body {
+    font-size: 18px;
+  }
+}
 
-/* ДЛЯ АДАПТИВУ */
+@media (max-width: 899px) {
+  body {
+    font-size: 16px;
+  }
+}
+
+/* font-family: 'Bitter',
+  serif; OTHER FONT*/ /* .test { position: fixed; width: 100%; background: #fff; top: 0; z-index: 100; } */ /* ДЛЯ АДАПТИВУ */ ;
